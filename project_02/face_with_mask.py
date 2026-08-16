@@ -23,7 +23,7 @@ NMS_THRESHOLD = 0.3
 TOP_K = 5000
 
 # Adjust these if your mask sits too high/low
-MASK_SCALE = 2.5
+MASK_SCALE = 6
 MASK_Y_OFFSET = 0.05
 
 
@@ -452,7 +452,7 @@ while True:
         # ----------------------------------------------------
 
         mask_width = int(
-            w * MASK_SCALE
+            eye_distance * MASK_SCALE
         )
 
         mask_width = max(
