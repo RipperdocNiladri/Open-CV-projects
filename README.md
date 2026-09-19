@@ -73,12 +73,6 @@ A real-time face detection project using OpenCV's **YuNet face detection model**
 * Bounding boxes
 * Real-time image processing
 
-📁 Location:
-
-```text
-project_01/
-```
-
 ---
 
 ## 🟢 Project 02 — Face Detection + Mask Overlay
@@ -382,5 +376,3 @@ New projects, experiments, improvements, and documentation will be added continu
 ## ⭐ If You Find This Useful
 
 Feel free to explore the projects and follow the repository as it grows.
-
-**One project at a time. One concept at a time. Building toward AI. 🤖👁️**
